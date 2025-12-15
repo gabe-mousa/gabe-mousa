@@ -2,7 +2,7 @@
 
 **Software Engineer @ Microsoft | AI Safety Researcher | Sailor**
 
-I build distributed systems by day and AI safety tools by night. Currently fascinated by interpretability—understanding what's actually happening inside neural networks and LLMs rather than treating them as black boxes.
+I like distributed systems and AI safety. Model Evals are very interesting and I'm open to discussing new opportunities if you want to reach out! Currently fascinated by interpretability and model evaluations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GabeMousa)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gab.01@hotmail.com)
