@@ -1,11 +1,15 @@
 # Hey, I'm Gabe
 
-**Software Engineer @ Microsoft | AI Safety Researcher | Sailor**
+**Software Engineer @ DoorDash | AI Safety Researcher | Sailor**
 
-I like distributed systems and AI safety. Model Evals are very interesting and I'm open to discussing new opportunities if you want to reach out! Currently fascinated by interpretability and model evaluations.
+I like distributed systems, dev tooling, and AI safety. I've also built a really cool tool that I'm very proud of called Pancake, which is a parallel agent manager, which you can find if you click [here](https://github.com/gabe-mousa/pancake). Model Evals are also super interesting and I'm open to discussing new opportunities if you want to reach out! Currently fascinated by interpretability and model evaluations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GabeMousa)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gab.01@hotmail.com)
+
+For most up-to-date info, check out my website!
+
+[https://gabe-mousa.github.io/gabemousa-website/](https://gabe-mousa.github.io/gabemousa-website/)
 
 ---
 
@@ -13,6 +17,13 @@ I like distributed systems and AI safety. Model Evals are very interesting and I
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### Pancake
+**Parallel Agent Manager**
+A fun local node package which allows managing multiple Claude Code or Claude chat sessions. It allows grouping sessions, sending messages across multiple sessions simultaneously, or most interestingly, sessions are allowed to communicate with one-another. This means sending messages back and forth and reading chat sessions of other agents. This creates unique scenarios having sessions spawn sub-agents and being able to live-interact with those sub-agents. 
+
+</td>
 <td width="50%" valign="top">
 
 ### Apolien
@@ -30,14 +41,11 @@ Inspired by research from Anthropic's alignment team.
 </td>
 <td width="50%" valign="top">
 
-### @ Microsoft
-**Distributed Systems & Infrastructure**
+### @ DoorDash
+**New Bets**
 
-- Authentication/authorization at 5M+ machines/month scale
-- MCP-powered infrastructure automation
-- Horizontal autoscaling for 1M+ customers/region
-- Observability pipelines at billions of requests/month
-
+- Building production systems for consumer marketing campaigns. 
+- Working on a team to identify new areas for products at DoorDash and developing them at extremely rapid paces. 
 </td>
 </tr>
 </table>
