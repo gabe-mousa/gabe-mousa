@@ -17,14 +17,15 @@ For most up-to-date info, check out my website!
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Pancake
 **Parallel Agent Manager**
+
 A fun local node package which allows managing multiple Claude Code or Claude chat sessions. It allows grouping sessions, sending messages across multiple sessions simultaneously, or most interestingly, sessions are allowed to communicate with one-another. This means sending messages back and forth and reading chat sessions of other agents. This creates unique scenarios having sessions spawn sub-agents and being able to live-interact with those sub-agents. 
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Apolien
 **AI Safety Evaluation Library for Python**
@@ -39,7 +40,7 @@ Inspired by research from Anthropic's alignment team.
 [![Apolien](https://img.shields.io/badge/GitHub-Apolien-a9def9?style=flat&logo=github)](https://github.com/gabe-mousa/Apolien)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### @ DoorDash
 **New Bets**
